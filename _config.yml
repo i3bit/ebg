@@ -36,40 +36,36 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Virtual Machines
+    description                           : Designed for highest performance you will ever get from your host operating system for standard architectures. 
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Portable OS
+    description                           : Preview your system in replica fashion, playbooks, containerization, SaaS and PaaS and/or development environement.
+    fontawesome_icon_name                 : shuttle-space
 
-  - title                                 : Video Support
+  - title                                 : Graphics Support (GUI)
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
+  - title                                 : Audio Support (Speakers and Microphones)
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
+  - title                                 : CPU and RAM
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Networking
+    description                           : Supports NAT and *Bridge networking capability. *Request features (bridged networking) to support your existing physical network infrastructure via submit your request to info@elboxglance.com.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Configuration & Encryption
+    description                           : Custom configuration for entropies in each Guest machines up to 0-4 entropy devices. Local boxes configuration saved offline in the host machine. 
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Storage
+    description                           : Up to 64GB for each box. Shrink size after setup box NOT supported.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
