@@ -10,7 +10,7 @@ Here we you keep a changelog for our app.
 <br>
 
 ### `Latest`
-# **Version 1.1.2-1**
+# **Version 1.1.3-1**
 
 #### Bug Fixes
 - Fix typo
