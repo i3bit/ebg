@@ -10,15 +10,19 @@ Here we you keep a changelog for our app.
 <br>
 
 ### `Latest`
+# **Version 1.1.2-1**
+
+#### Bug Fixes
+- Fix typo
+
+<br>
+
 # **Version 1.1.2**
 
 #### What's New
 - Allow prebuilt image selection for Linux boxes
 - Vendor allowed: Fedora Project 38 IoT
 - [Changes to Privacy Policy](/privacypolicy)
-
-#### Bug Fixes
-- Fix typo
 
 <br>
 
