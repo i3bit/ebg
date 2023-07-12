@@ -62,11 +62,11 @@ features                                  :
 
   - title                                 : Configuration & Encryption
     description                           : # Custom configuration for entropies in each Guest machines up to 0-4 entropy devices. Local boxes configuration saved offline in the host machine. 
-    fontawesome_icon_name                 : binary-lock
+    fontawesome_icon_name                 : 'binary-lock'
 
   - title                                 : Storage
     description                           : # Up to 64GB for each box. Shrink size after setup box NOT supported.
-    fontawesome_icon_name                 : hard-drive
+    fontawesome_icon_name                 : 'hard-drive'
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
