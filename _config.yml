@@ -45,7 +45,7 @@ features                                  :
     fontawesome_icon_name                 : servers
 
   - title                                 : Graphics User Interface (GUI)
-    description                           : Support systems includes pointers/mouse and keyboards.
+    description                           : #Support systems includes pointers/mouse and keyboards.
     fontawesome_icon_name                 : desktop
 
   - title                                 : Easy Box Configurations
