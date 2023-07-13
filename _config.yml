@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Multiples Desktop/Servers Instances
     description                           : #Preview your system in replica fashion, playbooks, containerization, SaaS and PaaS and/or production environement.
-    fontawesome_icon_name                 : servers
+    fontawesome_icon_name                 : server
 
   - title                                 : Graphics User Interface (GUI)
     description                           : #Support systems includes pointers/mouse and keyboards.
