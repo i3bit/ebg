@@ -37,28 +37,24 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Virtual Machines
-    description                           : Designed for highest performance you will ever get from your host operating system for standard architectures. 
+    description                           : #Designed for highest performance you will ever get from your host operating system for standard architectures. 
     fontawesome_icon_name                 : magic
     
-  - title                                 : Portable OS
-    description                           : Preview your system in replica fashion, playbooks, containerization, SaaS and PaaS and/or production environement.
-    fontawesome_icon_name                 : laptop
+  - title                                 : Multiples Desktop/Servers Instances
+    description                           : #Preview your system in replica fashion, playbooks, containerization, SaaS and PaaS and/or production environement.
+    fontawesome_icon_name                 : servers
 
-  - title                                 : Desktop/Servers
-    description                           : # Up to 64GB for each box. Shrink size after setup box NOT supported.
-    fontawesome_icon_name                 : server
-
-  - title                                 : Storage # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : sd-card # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-  - title                                 : Graphics User Interface (GUI) Support
+  - title                                 : Graphics User Interface (GUI)
     description                           : Support systems includes pointers/mouse and keyboards.
     fontawesome_icon_name                 : desktop
 
-  - title                                 : Audio Support
+  - title                                 : Easy Box Configurations
+    description                           : #Support systems includes pointers/mouse and keyboards.
+    fontawesome_icon_name                 : cogs
+
+  - title                                 : Portable Box At Glance
     description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : headphones
+    fontawesome_icon_name                 : shield-alt
     
 
 # Theme Settings
