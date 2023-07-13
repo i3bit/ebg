@@ -43,10 +43,6 @@ features                                  :
   - title                                 : Portable OS
     description                           : Preview your system in replica fashion, playbooks, containerization, SaaS and PaaS and/or production environement.
     fontawesome_icon_name                 : laptop
-    
-  - title                                 : Graphics User Interface (GUI)
-    description                           : Support systems includes pointers/mouse and keyboards.
-    fontawesome_icon_name                 : desktop
 
   - title                                 : Desktop/Servers
     description                           : # Up to 64GB for each box. Shrink size after setup box NOT supported.
@@ -56,7 +52,11 @@ features                                  :
     description                           : # New Feature Description
     fontawesome_icon_name                 : sd-card # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
-  - title                                 : Audio
+  - title                                 : Graphics User Interface (GUI) Support
+    description                           : Support systems includes pointers/mouse and keyboards.
+    fontawesome_icon_name                 : desktop
+
+  - title                                 : Audio Support
     description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     fontawesome_icon_name                 : headphones
     
