@@ -15,7 +15,6 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 <br>
 
 ## 1.0 Interpretation and Definitions
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
 
 ### 1.1 Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
