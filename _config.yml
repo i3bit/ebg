@@ -37,20 +37,16 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Virtual Machines
-    description                           : # Designed for highest performance you will ever get from your host operating system for standard architectures. 
+    description                           : Designed for highest performance you will ever get from your host operating system for standard architectures. 
     fontawesome_icon_name                 : magic
     
   - title                                 : Portable OS
-    description                           : # Preview your system in replica fashion, playbooks, containerization, SaaS and PaaS and/or development environement.
+    description                           : Preview your system in replica fashion, playbooks, containerization, SaaS and PaaS and/or production environement.
     fontawesome_icon_name                 : laptop
     
   - title                                 : Graphics User Interface (GUI)
-    description                           : # Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : Support systems includes pointers/mouse and keyboards.
     fontawesome_icon_name                 : desktop
-  
-  - title                                 : Networking
-    description                           : # Supports NAT and *Bridge networking capability. *Request features (bridged networking) to support your existing physical network infrastructure via submit your request to info@elboxglance.com.
-    fontawesome_icon_name                 : network-wired
 
   - title                                 : Desktop/Servers
     description                           : # Up to 64GB for each box. Shrink size after setup box NOT supported.
@@ -60,13 +56,9 @@ features                                  :
     description                           : # New Feature Description
     fontawesome_icon_name                 : sd-card # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
-  - title                                 : VM Audio
+  - title                                 : Audio
     description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     fontawesome_icon_name                 : headphones
-
-  - title                                 : Configurations & Encryption
-    description                           : # Custom configuration for entropies in each Guest machines up to 0-4 entropy devices. Local boxes configuration saved offline in the host machine. 
-    fontawesome_icon_name                 : shield-alt
     
 
 # Theme Settings
