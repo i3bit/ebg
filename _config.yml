@@ -44,17 +44,13 @@ features                                  :
     description                           : # Preview your system in replica fashion, playbooks, containerization, SaaS and PaaS and/or development environement.
     fontawesome_icon_name                 : laptop
     
-  - title                                 : Audio Support
-    description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : headphones
-    
-  - title                                 : Graphics User Interface Support (GUI)
+  - title                                 : Graphics User Interface (GUI)
     description                           : # Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : desktop
   
   - title                                 : Networking
     description                           : # Supports NAT and *Bridge networking capability. *Request features (bridged networking) to support your existing physical network infrastructure via submit your request to info@elboxglance.com.
-    fontawesome_icon_name                 : globe
+    fontawesome_icon_name                 : network-wired
 
   - title                                 : Desktop/Servers
     description                           : # Up to 64GB for each box. Shrink size after setup box NOT supported.
@@ -62,11 +58,15 @@ features                                  :
 
   - title                                 : Storage # New Feature Title
     description                           : # New Feature Description
-    fontawesome_icon_name                 : hard-drive # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : sd-card # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
-  - title                                 : Configuration & Encryption
+  - title                                 : VM Audio
+    description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    fontawesome_icon_name                 : headphones
+
+  - title                                 : Configurations & Encryption
     description                           : # Custom configuration for entropies in each Guest machines up to 0-4 entropy devices. Local boxes configuration saved offline in the host machine. 
-    fontawesome_icon_name                 : binary-lock
+    fontawesome_icon_name                 : shield-alt
     
 
 # Theme Settings
