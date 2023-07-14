@@ -10,10 +10,11 @@ Here we you keep a changelog for our app.
 <br>
 
 ### `Latest`
-# **Version 1.1.3-1**
+# **Version 1.1.3**
 
-#### Bug Fixes
-- Fix typo
+#### What's New
+- Download offical prebuilt ISO images for Linux boxes
+- Vendors available: Fedora Project 38 IoT
 
 <br>
 
