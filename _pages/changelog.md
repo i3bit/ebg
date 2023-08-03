@@ -21,17 +21,20 @@ Here we you keep a changelog for our app.
 
 
 <br>
+
 ________
 <br>
 
-# **Version 1.1.3**
+### `Version 1.1`
+
+### **Version 1.1.3**
 
 #### What's New
 - Add new Linux distributions vendors
 
 <br>
 
-# **Version 1.1.2**
+### **Version 1.1.2**
 
 #### What's New
 - Download Offical ISO images for Linux distributions vendors
@@ -45,21 +48,13 @@ ________
 - Enchantment  for macOS boxes
 - Enchantment  for Linux boxes
 
-#### Bug Fixes
-- Fix Progress while download IPSW
-- Fix Panel import for ISO
-
 <br>
 
 ________
 <br>
 
 ### `Initial Release`
-# **Version 1.0**
-
-<br>
-
-### **Version 1.0.16**
+### **Version 1.0**
 
 #### Bug Fixes
 - Improve Preflight validations
