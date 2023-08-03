@@ -10,19 +10,31 @@ Here we you keep a changelog for our app.
 <br>
 
 ### `Latest`
+# **Version 2.0.0**
+
+#### What's New
+- New Linux distributions vendors now available
+- Network switch that provides network access and connectivity for each box
+- Validating downloads from mirrors recommended by official Linux distributions vendors
+- Alert to re-download or use latest downloaded restore image for macOS
+- Alert to confirm downloading from any mirror for Linux distributions
+
+
+<br>
+________
+<br>
+
 # **Version 1.1.3**
 
 #### What's New
-- Download offical prebuilt ISO images for Linux boxes
-- Vendors available: Fedora Project 38 IoT
+- Add new Linux distributions vendors
 
 <br>
 
 # **Version 1.1.2**
 
 #### What's New
-- Allow prebuilt image selection for Linux boxes
-- Vendor allowed: Fedora Project 38 IoT
+- Download Offical ISO images for Linux distributions vendors
 - [Changes to Privacy Policy](/privacypolicy)
 
 <br>
