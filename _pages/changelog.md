@@ -7,6 +7,7 @@ include_in_header: true
 # Changelog
 Here we you keep a changelog for our app.
 
+
 <br>
 
 ### `Latest`
