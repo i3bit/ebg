@@ -13,8 +13,6 @@ Here we you keep a changelog for our app.
 ### `Latest`
 # **Version 2.1.2**
 
-<br>
-
 ### **Version 2.0.0**
 
 #### What's New
