@@ -17,6 +17,7 @@ Here we you keep a changelog for our app.
 
 ________
 <br>
+
 ### **Version 2.0.0**
 
 #### What's New
