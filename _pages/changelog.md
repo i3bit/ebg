@@ -11,7 +11,13 @@ Here we you keep a changelog for our app.
 <br>
 
 ### `Latest`
-# **Version 2.0.0**
+# **Version 2.1.2**
+
+<br>
+
+________
+<br>
+### **Version 2.0.0**
 
 #### What's New
 - New Linux distributions vendors now available
@@ -22,11 +28,6 @@ Here we you keep a changelog for our app.
 
 
 <br>
-
-________
-<br>
-
-### `Version 1.1`
 
 ### **Version 1.1.3**
 
