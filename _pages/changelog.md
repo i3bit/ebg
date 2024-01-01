@@ -5,15 +5,18 @@ include_in_header: true
 ---
 
 # Changelog
-Here we you keep a changelog for our app.
-
-
 <br>
 
 ### `Latest`
-# **Version 2.1.2**
+## **Version 2.2.1**
 
-### **Version 2.0.0**
+#### What's New
+- Add Auto Reconfigure Display Resolution 
+- Add support for Intel-based Mac
+
+  <br>
+  
+### **Version 2.1.2**
 
 #### What's New
 - New Linux distributions vendors now available
