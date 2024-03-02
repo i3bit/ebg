@@ -8,7 +8,7 @@ include_in_header: true
 <br>
 
 ### `Latest`
-## **Version 3.0
+## **Version 3.0**
 
 #### What's New
 - Add Live Boot image support with no storage attachement 
