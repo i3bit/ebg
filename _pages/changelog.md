@@ -8,13 +8,24 @@ include_in_header: true
 <br>
 
 ### `Latest`
-## **Version 2.2.1**
+## **Version 3.0
+
+#### What's New
+- Add Live Boot image support with no storage attachement 
+- Add Network Block Device as new storage option 
+- Add new controls for each running box
+- New friendly box overview
+- Bug fixes
+
+<br>
+
+### **Version 2.2.1**
 
 #### What's New
 - Add Auto Reconfigure Display Resolution 
 - Add support for Intel-based Mac
 
-  <br>
+<br>
   
 ### **Version 2.1.2**
 
