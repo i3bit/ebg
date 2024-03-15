@@ -19,6 +19,6 @@ The current distrubiton chanel of El Box Glance is available only in Apple Store
 <br> 
 
 ## Contact Us
-If you have any questions about this Privacy Policy, You can contact us:
+If you have any questions about this page, You can contact us:
 
 By email: info@elboxglance.com
