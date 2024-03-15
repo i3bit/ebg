@@ -4,8 +4,8 @@ title: Guide
 include_in_header: true
 ---
 
-**EBG Guide**  
-Mar 15, 2024
+**Last updated**  
+Mar 16, 2024
 
 # EBG Guide
 This Guide describes basic operation of El Box Glance. It also provides internal information in host system.
