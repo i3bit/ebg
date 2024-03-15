@@ -17,10 +17,10 @@ This Guide describes basic operation of El Box Glance. It also provides internal
 The current distrubiton chanel of El Box Glance is available only in Apple Store.
 
 ### 2. Uninstallation
-For the purposes of uninstall the application follow bellow steps: <p> 
-    1. From Application folder, drag-and-drop El Box Glance to your bin. <p> 
-    2. Backup your boxes data and downloaded files from this path `~/Library/Containers/com.elboxglance/Data` <p> 
-    3. TO REMOVE ALL DATA, paste this command in your terminal <p> 
+For the purposes of uninstall the application follow bellow steps: <br> 
+    1. From Application folder, drag-and-drop El Box Glance to your bin. <br> 
+    2. Backup your boxes data and downloaded files from this path `~/Library/Containers/com.elboxglance/Data` <br> 
+    3. TO REMOVE ALL DATA, paste this command in your terminal <br> 
 ```bash
 rm -rf '~/Library/Containers/com.elboxglance/Data'
 ```
