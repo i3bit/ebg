@@ -14,14 +14,14 @@ This Guide describes basic operation of El Box Glance. It also provides internal
 ## Basic Guide
 
 ### 1. Installation
-        The current distrubiton chanel of EBG is available only in Apple Store.
+    The current distrubiton chanel of EBG is available only in Apple Store.
 
 ### 2. Preparation
-        Spin up selected system in configuration panel. Download free systems from various vendors also available.
+    Spin up selected system in configuration panel. 
+    Download free systems from various vendors also available.
 
 ### 3. Configuration
-
-        Default Configuration:
+    Default Configuration:
         x2 Encryption Controller
         x2 Core vCPU
         2GB RAM
@@ -37,4 +37,4 @@ This Guide describes basic operation of El Box Glance. It also provides internal
 ### 5. Contact Us
 If you have any questions about this page, You can contact us:
 
-By email: info@elboxglance.com
+    By email: info@elboxglance.com
