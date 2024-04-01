@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 12, 2023
+Apr 1st, 2023
 
 # Privacy Policy
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
@@ -47,7 +47,6 @@ You means the individual accessing or using the Service, or the company, or othe
 <br>
 
 ## 2.0 Collecting and Using Your Personal Data
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
 
 ### 2.1 Personal Data
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to: Usage Data
@@ -142,7 +141,14 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 <br> 
 
-## 9.0 Contact Us
+## 9.0 Disclaimer
+The information provided by El Box Glance App ("we,"us" or "our") as software application (the "Product") and Mac application is for general informational purposes only. All information on the Product is provided in good faith. howeever we make no representation or warrenty of any kind, express or implied, regarding the accurancy, adequancy, validity, reliability, availability or completeness of any information on the Product.
+
+UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIBILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE PRODUCT OR RELIANCE ON ANY INFORMATION PROVIDED ON THE PRODUCT. YOUR USE OF THE PRODUCT AND YOUR RELIANCE ON ANY INFORMATION ON THE PRODUCT IS SOLELY AT YOUR OWN RISK.
+
+<br> 
+
+## 10.0 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
 By email: info@elboxglance.com
