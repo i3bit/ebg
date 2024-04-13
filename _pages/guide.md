@@ -25,7 +25,7 @@ This Guide describes basic operation of El Box Glance. It also provides internal
         x2 Encryption Controller
         x2 Core vCPU
         2GB RAM
-        32GB Mass Storage Disk
+        32GB Storage Disk
         Keyboard Device
         Pointing Device
 
