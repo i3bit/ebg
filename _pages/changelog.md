@@ -8,7 +8,7 @@ include_in_header: true
 <br>
 
 ### `Latest`
-## **Version 3.2.0**
+## **Release Version 3.2.0**
 
 #### What's New
 - Rename app display name to "EBG"
@@ -16,21 +16,21 @@ include_in_header: true
 
 <br>
 
-## **Version 3.1.1**
+## **Release Version 3.1.1**
 
 #### What's New
 - Refine EBG configuration panel 
 
 <br>
 
-### **Version 3.1.0**
+### **Release Version 3.1.0**
 
 #### What's New
 - Update entitlements 
 
 <br>
 
-### **Version 3.0**
+### **Release Version 3.0**
 
 #### What's New
 - Add Live Boot image support with no storage attachement 
@@ -41,7 +41,7 @@ include_in_header: true
 
 <br>
 
-### **Version 2.2.1**
+### **Release Version 2.2.1**
 
 #### What's New
 - Add Auto Reconfigure Display Resolution 
@@ -49,7 +49,7 @@ include_in_header: true
 
 <br>
   
-### **Version 2.1.2**
+### **Release Version 2.1.2**
 
 #### What's New
 - New Linux distributions vendors now available
@@ -61,14 +61,14 @@ include_in_header: true
 
 <br>
 
-### **Version 1.1.3**
+### **Release Version 1.1.3**
 
 #### What's New
 - Add new Linux distributions vendors
 
 <br>
 
-### **Version 1.1.2**
+### **Release Version 1.1.2**
 
 #### What's New
 - Download Offical ISO images for Linux distributions vendors
@@ -76,7 +76,7 @@ include_in_header: true
 
 <br>
 
-### **Version 1.1.1**
+### **Release Version 1.1.1**
 
 #### What's New
 - Enchantment  for macOS boxes
@@ -88,7 +88,7 @@ ________
 <br>
 
 ### `Initial Release`
-### **Version 1.0**
+### **Release Version 1.0**
 
 #### Bug Fixes
 - Improve Preflight validations
