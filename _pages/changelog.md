@@ -8,6 +8,14 @@ include_in_header: true
 <br>
 
 ### `Latest`
+## **Version 3.2.0**
+
+#### What's New
+- Rename app display name to "EBG"
+- Minor bug fixes 
+
+<br>
+
 ## **Version 3.1.1**
 
 #### What's New
