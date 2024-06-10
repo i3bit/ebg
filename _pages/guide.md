@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-April 13, 2024
+June 10, 2024
 
 # EBG Guide
 This Guide describes basic operation of El Box Glance. It also provides internal information.
