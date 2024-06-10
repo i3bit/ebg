@@ -11,12 +11,11 @@ include_in_header: true
 ## **Release Version 3.2.0**
 
 #### What's New
-- Rename app display name to "EBG"
 - Minor bug fixes 
 
 <br>
 
-## **Release Version 3.1.1**
+### **Release Version 3.1.1**
 
 #### What's New
 - Refine EBG configuration panel 
