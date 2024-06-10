@@ -21,9 +21,12 @@ This guide describes basic operation of El Box Glance.
 * Identify your host machine architecture:
     * Use aarch64 or arm64 for Apple Silicon Chips.
     * Use x86 or amd64 for Intel-based chips.
-* Download a Linux distro (iso) installer system image that matches your architecture.
+   
+* System Image Installer:
+   * Download macOS (ipsw) system image from the official Apple website, compatible with Apple Silicon Chips only.
+   * Download a Linux distro (iso) system image that matches your architecture.
 
-*Note: Free systems from various vendors are available in the setup panel of the EBG application.*
+*Note: Official latest macOS release and free systems from various vendors are available to download direcrly within the setup panel.*
 
 ## 3. Working with pre-installed system images
 
