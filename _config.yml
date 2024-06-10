@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Virtual Environments
     description                           : Create and manage isolated computing environments. 
-    fontawesome_icon_name                 : vmware
+    fontawesome_icon_name                 : magic
     
   - title                                 : Multi-Instance Management
     description                           : Handle multiple desktop and server instances seamlessly.
