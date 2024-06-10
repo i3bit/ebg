@@ -26,7 +26,7 @@ This guide describes basic operation of El Box Glance.
    * Download macOS (ipsw) system image from the official Apple website, compatible with Apple Silicon Chips only.
    * Download a Linux distro (iso) system image that matches your architecture.
 
-*Note: Official latest macOS release and free systems from various vendors are available to download direcrly within the setup panel.*
+*Note: Official latest macOS release and free systems from various vendors are available to download directly within the setup panel.*
 
 ## 3. Working with pre-installed system images
 
