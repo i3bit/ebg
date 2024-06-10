@@ -36,25 +36,25 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Virtual Machines
-    description                           : #Designed for highest performance you will ever get from your host operating system for standard architectures. 
-    fontawesome_icon_name                 : magic
+  - title                                 : Virtual Environments
+    description                           : Create and manage isolated computing environments. 
+    fontawesome_icon_name                 : vmware
     
-  - title                                 : Multiple Desktop/Servers Instances
-    description                           : #Preview your system in replica fashion, playbooks, containerization, SaaS and PaaS and/or production environement.
-    fontawesome_icon_name                 : server
+  - title                                 : Multi-Instance Management
+    description                           : Handle multiple desktop and server instances seamlessly.
+    fontawesome_icon_name                 : server    
 
-  - title                                 : Graphics User Interface (GUI)
-    description                           : #Support systems includes pointers/mouse and keyboards.
+  - title                                 : Interactive User Interface
+    description                           : Enjoy a user-friendly and intuitive graphical interface.
     fontawesome_icon_name                 : desktop
 
-  - title                                 : Easy Box Configurations
-    description                           : #Support systems includes pointers/mouse and keyboards.
-    fontawesome_icon_name                 : cogs
+  - title                                 : Simplified Configurations
+    description                           : Configure your virtual boxes with ease.
+    fontawesome_icon_name                 : sliders-h
 
-  - title                                 : Sharable At Glance
-    description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : shield-alt
+  - title                                 : Shareable Snapshots
+    description                           : Share your virtual environment states at a glance.
+    fontawesome_icon_name                 : share-square
     
 
 # Theme Settings
