@@ -53,7 +53,7 @@ features                                  :
     fontawesome_icon_name                 : sliders-h
 
   - title                                 : Shareable Snapshots
-    description                           : Share your virtual environment states at a glance.
+    description                           : Share your virtual environment states.
     fontawesome_icon_name                 : share-square
     
 
