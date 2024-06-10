@@ -31,13 +31,13 @@ replace new/existing box image with pre-installed image.
 
 ## 3. Configuration
 
-Default Configuration:
-    x2 Encryption Controller
-    x2 Core vCPU
-    2GB RAM
-    32GB Storage Disk
-    Keyboard Device
-    Pointing Device
+    Default Configuration:
+        x2 Encryption Controller
+        x2 Core vCPU
+        2GB RAM
+        32GB Storage Disk
+        Keyboard Device
+        Pointing Device
 
 ## 4. Uninstallation
 
