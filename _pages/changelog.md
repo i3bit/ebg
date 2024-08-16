@@ -8,7 +8,18 @@ include_in_header: true
 <br>
 
 ### `Latest`
-## **Release Version 3.2.0**
+## **Release Version 3.3.0**
+
+#### What's New
+- New features:
+  * UI enhancements
+  * Data Disks
+  * Run pre-installed system images
+  * Import/Export your boxes.
+- Minor bug fixes and improvements.
+
+<br>
+### **Release Version 3.2.0**
 
 #### What's New
 - Minor bug fixes 
