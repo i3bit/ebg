@@ -28,10 +28,10 @@ This guide describes basic operation of EBG: El Box Glance.
 
 *Note: Official latest macOS release and free systems from various vendors are available to download directly within the setup panel.*
 
-## 3. Working with pre-installed system images (raw,img)
+## 3. Working with pre-installed system images (raw/img)
 
-* Starting from version 3.3 import preinstalled image with raw format, a original file won't be edited by changes instead it will be cloned to a sandbox.
-* Alternative optition to run a vm with preinstall image:
+* Starting from version 3.3 and later, import preinstalled image with raw/img format.
+* Alternative options to run a vm with preinstall system image:
     * Use Network Block Device (NBD) server.
     * Manually replace a new/existing box image with a pre-installed image on your host machine file system.
 
