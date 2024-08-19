@@ -14,6 +14,7 @@ include_in_header: true
 - Minor bug fixes and improvements.
 
 <br>
+
 ### **Release Version 3.3.0**
 
 #### What's New
