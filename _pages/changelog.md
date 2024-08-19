@@ -8,14 +8,14 @@ include_in_header: true
 <br>
 
 ### `Latest`
-## **Release Version 3.3.1**
+## Release 3.3.1
 
 #### What's New
 - Minor bug fixes and improvements.
 
 <br>
 
-### **Release Version 3.3.0**
+### Release 3.3.0
 
 #### What's New
 - New features:
@@ -26,28 +26,29 @@ include_in_header: true
 - Minor bug fixes and improvements.
 
 <br>
-### **Release Version 3.2.0**
+
+### Release 3.2.0
 
 #### What's New
 - Minor bug fixes 
 
 <br>
 
-### **Release Version 3.1.1**
+### Release 3.1.1
 
 #### What's New
 - Refine EBG configuration panel 
 
 <br>
 
-### **Release Version 3.1.0**
+### Release  3.1.0
 
 #### What's New
 - Update entitlements 
 
 <br>
 
-### **Release Version 3.0**
+### Release 3.0
 
 #### What's New
 - Add Live Boot image support with no storage attachement 
@@ -58,7 +59,7 @@ include_in_header: true
 
 <br>
 
-### **Release Version 2.2.1**
+### Release 2.2.1
 
 #### What's New
 - Add Auto Reconfigure Display Resolution 
@@ -66,7 +67,7 @@ include_in_header: true
 
 <br>
   
-### **Release Version 2.1.2**
+### Release 2.1.2
 
 #### What's New
 - New Linux distributions vendors now available
@@ -78,14 +79,14 @@ include_in_header: true
 
 <br>
 
-### **Release Version 1.1.3**
+### Release 1.1.3
 
 #### What's New
 - Add new Linux distributions vendors
 
 <br>
 
-### **Release Version 1.1.2**
+### Release 1.1.2
 
 #### What's New
 - Download Offical ISO images for Linux distributions vendors
@@ -93,7 +94,7 @@ include_in_header: true
 
 <br>
 
-### **Release Version 1.1.1**
+### Release 1.1.1
 
 #### What's New
 - Enchantment  for macOS boxes
