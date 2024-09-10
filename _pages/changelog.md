@@ -8,7 +8,14 @@ include_in_header: true
 <br>
 
 ### `Latest`
-## Release 3.3.1
+## Release 3.3.2
+
+#### What's New
+- Minor bug fixes and improvements.
+
+<br>
+
+### Release 3.3.1
 
 #### What's New
 - Minor bug fixes and improvements.
