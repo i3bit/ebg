@@ -34,7 +34,7 @@ This guide explains the basic operations of EBG: El Box Glance.
     * Utilizing a Network Block Device (NBD) server.
     * Manually replacing an existing box image with a pre-installed image on your host machine's file system.
 
-## 3. Configuration
+## 4. Configuration
 
 The default EBG configuration includes:
 
@@ -47,14 +47,14 @@ The default EBG configuration includes:
     
 You can tweak these settings right within the app using the user interface configuration.
 
-## 4. Uninstallation
+## 5. Uninstallation
 
 * To remove EBG and any associated data from your host machine, follow these steps:
     * Select "File" > "Delete All Boxes" from "El Box Glance" menu bar.
     * Navigate to the Application folder and delete the "El Box Glance" application.
     * Remove the app container folder from your system.
     
-## 5. Contact Us
+## 6. Contact Us
 
 Should you have any inquiries or require further clarification, please do not hesitate to contact us.
 
