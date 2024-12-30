@@ -1,60 +1,61 @@
 ---
 layout: page
-title: Guide
+title: EBG User Guide
 include_in_header: true
 ---
 
-**Last updated**  
-Aug 17, 2024
+**Last updated**
+December 30, 2024
 
-# Guide
-This guide describes basic operation of EBG: El Box Glance.
+## Guide
+This guide explains the basic operations of EBG: El Box Glance.
 <br>
 
 ## 1. Installation
 
-* Visit the Apple Store and search for “ebg or El Box Glance” or [Go to App Store from here](https://apps.apple.com/us/app/el-box-glance/id6449521968?mt=12&itsct=apps_box_badge&itscg=30200).
-* Purchase and Install; Click on the price button to purchase the app. After the purchase is complete, the app will automatically download and install on your device.
+* Visit the Apple Store and search for "ebg" or "El Box Glance." Alternatively, [access the App Store from this link](https://apps.apple.com/us/app/el-box-glance/id6449521968?mt=12&itsct=apps_box_badge&itscg=30200).
+* Proceed with the purchase and installation process. Click on the "Price" button to initiate the transaction. Upon completion, the app will automatically download and install on your device.
 
 ## 2. Preparation
 
-* Identify your host machine architecture:
-    * Use 'aarch64' or 'arm64' for Apple Silicon chips.
-    * Use 'x86' or 'amd64' for Intel-based chips.
-   
-* System Image Installer:
-   * Download macOS (ipsw) system image from the official Apple website, compatible with Apple Silicon chips.
-   * Download a Linux distro (iso) system image that matches your architecture.
+* **Host Machine Architecture Identification:**
+    * For Apple Silicon chips, use "aarch64" or "arm64" as the processor architecture. Some images of "armv8" may also be compatible.
+    * For Intel-based chips, use "x86" or "amd64".
+* **System Image Installer:**
+    * For Apple Silicon chips, download the macOS (ipsw) system image from the official Apple website.
+    * For Intel-based chips, download a Linux distro (iso) system image that corresponds to your architecture.
 
-*Note: Official latest macOS release and free systems from various vendors are available to download directly within the setup panel.*
+* **Note:** Official latest macOS releases and complimentary systems from various vendors are conveniently accessible within the setup panel.
 
-## 3. Working with pre-installed system images (raw/img)
+## 3. Working with Pre-Installed System Images (raw/img)
 
-* Starting from version 3.3 and later, import preinstalled image with raw/img format.
-* Alternative options to run a vm with preinstall system image:
-    * Use Network Block Device (NBD) server.
-    * Manually replace a new/existing box image with a pre-installed image on your host machine file system.
+* EBG now supports importing pre-installed images in raw/img format, commonly referred to as Master Boot Record (MBR), starting from version 3.3.
+* Alternative methods to execute a virtual machine with a pre-installed system image include:
+    * Utilizing a Network Block Device (NBD) server.
+    * Manually replacing an existing box image with a pre-installed image on your host machine's file system.
 
 ## 3. Configuration
 
-    The default configuration of EBG includes:
-        x2 Encryption Controller
-        x2 Core vCPU
-        2GB RAM
-        32GB Storage Disk
-        Keyboard Device
-        Pointing Device
-        
-* You can adjust these settings as per your requirements within the application.
+The default EBG configuration includes:
+
+    * Two Encryption Controllers
+    * Two Core vCPUs
+    * 2GB of RAM
+    * 32GB of Storage Disk
+    * Keyboard Device
+    * Pointing Device
+    
+You can tweak these settings right within the app using the user interface configuration.
 
 ## 4. Uninstallation
 
-To remove EBG and related data from your host machine, follow these steps:
-* Select ‘Erase All Boxes’ from El Box Glance option in the Menu bar.
-* Navigate to the Application folder and remove El Box Glance.
-
+* To remove EBG and any associated data from your host machine, follow these steps:
+    * Select "File" > "Delete All Boxes" from "El Box Glance" menu bar.
+    * Navigate to the Application folder and delete the "El Box Glance" application.
+    * Remove the app container folder from your system.
+    
 ## 5. Contact Us
 
-If you have any questions or need further clarification, don’t hesitate to contact us.
+Should you have any inquiries or require further clarification, please do not hesitate to contact us.
 
-    info@elboxglance.com
+info@elboxglance.com
