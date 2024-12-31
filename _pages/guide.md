@@ -1,11 +1,11 @@
 ---
 layout: page
-title: EBG User Guide
+title: Guide
 include_in_header: true
 ---
 
 **Last updated**
-December 30, 2024
+December 31, 2024
 
 ## Guide
 This guide explains the basic operations of EBG: El Box Glance.
