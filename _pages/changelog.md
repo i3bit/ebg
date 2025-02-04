@@ -5,36 +5,33 @@ include_in_header: true
 ---
 
 # Changelog
-<br>
-
 ### `Latest`
-## Release 3.4.1
+## RC 3.5.0
+#### What's New
+- Advanced networking capabilities
+- Clipboard sharing
+- Ability to customize vCPU, memory, and storage settings
+- Performance improvements, bug fixes, and other enhancements
+  
+### Release 3.4.1
 
 #### What's New
 - Minor bug fixes and improvements.
 
-<br>
-
-## Release 3.4.0
+### Release 3.4.0
 
 #### What's New
 - Minor bug fixes and improvements.
-
-<br>
-
+  
 ### Release 3.3.2
 
 #### What's New
 - Minor bug fixes and improvements.
 
-<br>
-
 ### Release 3.3.1
 
 #### What's New
 - Minor bug fixes and improvements.
-
-<br>
 
 ### Release 3.3.0
 
@@ -46,28 +43,20 @@ include_in_header: true
   * Import/Export your boxes.
 - Minor bug fixes and improvements.
 
-<br>
-
 ### Release 3.2.0
 
 #### What's New
 - Minor bug fixes 
-
-<br>
 
 ### Release 3.1.1
 
 #### What's New
 - Refine EBG configuration panel 
 
-<br>
-
 ### Release  3.1.0
 
 #### What's New
 - Update entitlements 
-
-<br>
 
 ### Release 3.0
 
@@ -78,15 +67,11 @@ include_in_header: true
 - New friendly box overview
 - Bug fixes
 
-<br>
-
 ### Release 2.2.1
 
 #### What's New
 - Add Auto Reconfigure Display Resolution 
 - Add support for Intel-based Mac
-
-<br>
   
 ### Release 2.1.2
 
@@ -97,15 +82,10 @@ include_in_header: true
 - Alert to re-download or use latest downloaded restore image for macOS
 - Alert to confirm downloading from any mirror for Linux distributions
 
-
-<br>
-
 ### Release 1.1.3
 
 #### What's New
 - Add new Linux distributions vendors
-
-<br>
 
 ### Release 1.1.2
 
@@ -113,23 +93,17 @@ include_in_header: true
 - Download Offical ISO images for Linux distributions vendors
 - [Changes to Privacy Policy](/privacypolicy)
 
-<br>
-
 ### Release 1.1.1
 
 #### What's New
 - Enchantment  for macOS boxes
 - Enchantment  for Linux boxes
-
-<br>
-
-________
-<br>
-
-### `Initial Release`
-### **Release Version 1.0**
-
+  
 #### Bug Fixes
 - Improve Preflight validations
+________
+
+### `Initial Release`
+#### **Release Version 1.0**
 
 <br>
