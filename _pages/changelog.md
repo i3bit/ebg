@@ -10,7 +10,7 @@ include_in_header: true
 #### What's New
 - Advanced networking capabilities
 - Clipboard sharing
-- Ability to customize vCPU, memory, and storage settings
+- Customize vCPU, memory, and storage settings
 - Performance improvements, bug fixes, and other enhancements
   
 ### Release 3.4.1
