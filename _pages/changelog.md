@@ -6,7 +6,7 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
-## RC 3.5.0
+## Release 3.5.0
 #### What's New
 - Advanced networking capabilities
 - Clipboard sharing
