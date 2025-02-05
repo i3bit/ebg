@@ -5,8 +5,17 @@ include_in_header: true
 ---
 
 # Changelog
+### RC 3.5.1
+
+#### What's new
+- Hot-pluggable USB
+- Advanced networking with packet loss counts and percentages
+- Revamped Additional Devices section.
+- Performance improvements, bug fixes, and other enhancements.
+
 ### `Latest`
-## Release 3.5.0
+### Release 3.5.0
+
 #### What's New
 - Advanced networking capabilities
 - Clipboard sharing
