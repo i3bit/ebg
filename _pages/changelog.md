@@ -5,7 +5,8 @@ include_in_header: true
 ---
 
 # Changelog
-### RC 3.5.1
+### `Latest`
+### Release 3.5.1
 
 #### What's new
 - Hot-pluggable USB
@@ -13,7 +14,7 @@ include_in_header: true
 - Revamped Additional Devices section.
 - Performance improvements, bug fixes, and other enhancements.
 
-### `Latest`
+
 ### Release 3.5.0
 
 #### What's New
