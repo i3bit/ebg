@@ -6,13 +6,20 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+### Release 3.5.2
+
+#### What's new
+- Port Forwarding Rules **experimental**
+- Menu Downloads improvements
+- Performance improvements, bug fixes, and other enhancements
+
 ### Release 3.5.1
 
 #### What's new
 - Hot-pluggable USB
 - Advanced networking with packet loss counts and percentages
-- Revamped Additional Devices section.
-- Performance improvements, bug fixes, and other enhancements.
+- Revamped Additional Devices section
+- Performance improvements, bug fixes, and other enhancements
 
 
 ### Release 3.5.0
