@@ -9,7 +9,7 @@ include_in_header: true
 ### Release 3.5.3
 
 #### What's new
-- Nested virtualization on several Mac models when running Linux distributions.
+- Nested virtualization on several Mac models when running Linux distributions
 - Performance improvements, bug fixes, and other enhancements
 
 ### Release 3.5.2
