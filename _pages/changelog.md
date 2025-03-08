@@ -6,10 +6,16 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+### Release 3.5.3
+
+#### What's new
+- Nested virtualization on several Mac models when running Linux distributions.
+- Performance improvements, bug fixes, and other enhancements
+
 ### Release 3.5.2
 
 #### What's new
-- Port Forwarding Rules **experimental**
+- Port Forwarding Rules
 - Menu Downloads improvements
 - Performance improvements, bug fixes, and other enhancements
 
