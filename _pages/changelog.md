@@ -6,6 +6,14 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+### Release 3.6.0
+
+#### What's new
+- Serial Port
+- Memory Balloon
+- Improved onboarding experience
+- Performance improvements, bug fixes, and other enhancements
+
 ### Release 3.5.3
 
 #### What's new
