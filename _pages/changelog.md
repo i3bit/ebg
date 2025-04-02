@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+### Release 3.6.1
+
+#### What's new
+- Performance improvements, bug fixes, and other enhancements
+
 ### Release 3.6.0
 
 #### What's new
