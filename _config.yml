@@ -5,7 +5,7 @@ page_title                                : 'EBG: El Box Glance'                
 ios_app_id                                : 6449521968                                          # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             : https://apps.apple.com/us/app/el-box-glance/id6449521968                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/apple-store/id6449521968?pt=119273721&ct=website&mt=8                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                     # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : EBG                                
 your_link                                 : https://elboxglance.com                     
-your_city                                 : Riyadh                               
+your_city                                 : Riyadh
 email_address                             : info@elboxglance.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -37,8 +37,12 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Virtual Environments
-    description                           : Create and manage isolated computing environments. 
+    description                           : Create, manage, and run isolated computing environments. 
     fontawesome_icon_name                 : magic
+    
+  - title                                 : Virtual Networks
+    description                           : Advanced networking interfaces with port forwarding rules.
+    fontawesome_icon_name                 : network-wired
     
   - title                                 : Multi-Instance Management
     description                           : Handle multiple desktop and server instances seamlessly.
