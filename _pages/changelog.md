@@ -6,6 +6,12 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+### RC 3.6.2
+#### What's new
+- Notifications for Hot Plug USB attachment and detachment
+- Enhancement to the titlebar accessory while displaying status information. 
+- Performance improvements, bug fixes, and other enhancements
+
 ### Release 3.6.1
 
 #### What's new
