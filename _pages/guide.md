@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**
-December 31, 2024
+April 14, 2025
 
 ## Guide
 This guide explains the basic operations of EBG: El Box Glance.
@@ -38,7 +38,7 @@ This guide explains the basic operations of EBG: El Box Glance.
 
 The default EBG configuration includes:
 
-    * Two Encryption Controllers
+    * One Encryption Controllers
     * Two Core vCPUs
     * 2GB of RAM
     * 32GB of Storage Disk
