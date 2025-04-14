@@ -12,7 +12,8 @@ include_in_header: true
 - Optimized virtual network interfaces
 - NVMe support for system disk and data disks
 - macOS Recovery start option for macOS VMs
-- Capture system keys (⌘,⌥).
+- Capture system keys (⌘,⌥)
+- Notifications for Advanced Network Interface initialization errors
 - Revamped the Advanced Networking panel
 - Performance improvements, bug fixes, and other enhancements
 
