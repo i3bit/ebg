@@ -158,6 +158,6 @@ include_in_header: true
 ________
 
 ### `Initial Release`
-#### **Release Version 1.0**
+#### **Release Version 1.1**
 
 <br>
