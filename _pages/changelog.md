@@ -6,7 +6,18 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+### Release Candidate 4.0.0
+
+#### What's new
+- Optimized virtual network interfaces
+- NVMe support for system disk and data disks
+- macOS Recovery start option for macOS VMs
+- Capture system keys (⌘,⌥).
+- Revamped the Advanced Networking panel
+- Performance improvements, bug fixes, and other enhancements
+
 ### Release 3.6.2
+
 #### What's new
 - Notifications for Hot Plug USB attachment and detachment
 - Enhancement to the titlebar accessory while displaying status information. 
