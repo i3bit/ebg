@@ -111,7 +111,7 @@ include_in_header: true
 #### What's New
 - Update entitlements 
 
-### Release 3.0
+### Release 3.0.0
 
 #### What's New
 - Add Live Boot image support with no storage attachement 
