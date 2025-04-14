@@ -70,37 +70,36 @@ include_in_header: true
 ### Release 3.4.1
 
 #### What's New
-- Minor bug fixes and improvements.
+- Performance improvements, bug fixes, and other enhancements
 
 ### Release 3.4.0
 
 #### What's New
-- Minor bug fixes and improvements.
+- Performance improvements, bug fixes, and other enhancements
   
 ### Release 3.3.2
 
 #### What's New
-- Minor bug fixes and improvements.
+- Performance improvements, bug fixes, and other enhancements
 
 ### Release 3.3.1
 
 #### What's New
-- Minor bug fixes and improvements.
+- Performance improvements, bug fixes, and other enhancements
 
 ### Release 3.3.0
 
 #### What's New
-- New features:
-  * UI enhancements
-  * Data Disks
-  * Run pre-installed system images
-  * Import/Export your boxes.
-- Minor bug fixes and improvements.
+- UI enhancements
+- Data Disks
+- Run pre-installed system images
+- Import/Export your boxes.
+- Performance improvements, bug fixes, and other enhancements
 
 ### Release 3.2.0
 
 #### What's New
-- Minor bug fixes 
+- Performance improvements, bug fixes, and other enhancements
 
 ### Release 3.1.1
 
@@ -119,7 +118,7 @@ include_in_header: true
 - Add Network Block Device as new storage option 
 - Add new controls for each running box
 - New friendly box overview
-- Bug fixes
+- Performance improvements, bug fixes, and other enhancements
 
 ### Release 2.2.1
 
@@ -136,25 +135,40 @@ include_in_header: true
 - Alert to re-download or use latest downloaded restore image for macOS
 - Alert to confirm downloading from any mirror for Linux distributions
 
+
+### Release 2.1.1
+
+#### What's New
+- Performance improvements, bug fixes, and other enhancements
+
+
+### Release 2.1.0
+
+#### What's New
+- Import macOS IPSW restore image
+- Add bridged networking
+- Performance improvements, bug fixes, and other enhancements
+
+
+### Release 2.0.1
+
+#### What's New
+- Performance improvements, bug fixes, and other enhancements
+
+### Release 2.0.0
+
+#### What's New
+- Performance improvements, bug fixes, and other enhancements
+
 ### Release 1.1.3
 
 #### What's New
 - Add new Linux distributions vendors
-
-### Release 1.1.2
-
-#### What's New
 - Download Offical ISO images for Linux distributions vendors
 - [Changes to Privacy Policy](/privacypolicy)
-
-### Release 1.1.1
-
-#### What's New
 - Enchantment  for macOS boxes
 - Enchantment  for Linux boxes
-  
-#### Bug Fixes
-- Improve Preflight validations
+- Improved Preflight validations
 ________
 
 ### `Initial Release`
