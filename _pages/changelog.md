@@ -6,7 +6,7 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
-### Release Candidate 4.0.0
+### Release 4.0.0
 
 #### What's new
 - Optimized virtual network interfaces
