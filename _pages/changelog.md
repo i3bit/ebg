@@ -6,6 +6,15 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+### Release 4.0.1
+
+#### What's new
+- Network address helper, including support for RFC1918 private ranges
+- Custom NAT66 prefix
+- Network delay control
+- New download indicator and restorable setup window
+- Performance improvements, bug fixes, and other enhancements
+
 ### Release 4.0.0
 
 #### What's new
