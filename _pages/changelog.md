@@ -6,7 +6,7 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
-### RC 4.0.4
+### Release 4.0.4
 
 #### What's new
 - Performance improvements, bug fixes, and other enhancements
