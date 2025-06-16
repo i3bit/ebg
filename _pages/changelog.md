@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+### Release 4.0.5
+
+#### What's new
+- UI enhancements
+
 ### Release 4.0.4
 
 #### What's new
