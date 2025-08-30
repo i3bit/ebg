@@ -198,7 +198,6 @@ include_in_header: true
 - Enchantment  for macOS boxes
 - Enchantment  for Linux boxes
 - Improved Preflight validations
-________
 
 ### `Initial Release`
 #### **Release Version 1.1**
