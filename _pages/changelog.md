@@ -199,7 +199,7 @@ include_in_header: true
 - Enchantment  for Linux boxes
 - Improved Preflight validations
 
-## Release Version 1.1
+### Release 1.1
 - `Initial Release`
 
 <br>
