@@ -6,6 +6,12 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+### Release Candidate 4.1.0
+#### What's new
+- Liquid Glass styles
+- UI enhancements
+- Performance improvements, bug fixes, and other enhancements
+
 ### Release 4.0.5
 
 #### What's new
