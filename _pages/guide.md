@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**
-April 14, 2025
+Oct 4, 2025
 
 ## Guide
 This guide explains the basic operations of EBG: El Box Glance.
@@ -47,14 +47,30 @@ The default EBG configuration includes:
     
 You can tweak these settings right within the app using the user interface configuration.
 
-## 5. Uninstallation
+## 5. Shared Directories
+
+To add a new shared directory, click on the "Shares" button from the box configuration panel and click on "Add New Share". A random 4-digit number will be assigned to the new folder.
+
+To mount the shared directory in a macOS or Linux distribution, execute the following command:
+
+`mount -t virtiofs elshared-xxxx /mnt/`
+
+Note: Replace "xxxx" with the new 4-digit number.
+
+To make the mount persistent, add the following line to /etc/fstab:
+
+`elshared-xxxx	/mnt	virtiofs	defaults	0	0`
+
+Note: Replace "xxxx" with the new 4-digit number.
+
+## 6. Uninstallation
 
 * To remove EBG and any associated data from your host machine, follow these steps:
     * Select "File" > "Delete All Boxes" from "El Box Glance" menu bar.
     * Navigate to the Application folder and delete the "El Box Glance" application.
-    * Remove the app container folder from your system.
+    * Remove the app folder from your system at the following path: `~/Library/Containers/com.elboxglance`
     
-## 6. Contact Us
+## 7. Contact Us
 
 Should you have any inquiries or require further clarification, please do not hesitate to contact us.
 
