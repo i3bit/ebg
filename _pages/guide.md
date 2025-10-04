@@ -55,13 +55,13 @@ To mount the shared directory in a macOS or Linux distribution, execute the foll
 
 `mount -t virtiofs elshared-xxxx /mnt`
 
-Note: Replace "xxxx" with the new 4-digit number.
+Note: Replace "xxxx" with the 4-digit number. Replace `/mnt` with the destination path inside the guest.
 
 To make the mount persistent, add the following line to /etc/fstab:
 
 `elshared-xxxx	/mnt	virtiofs	defaults	0	0`
 
-Note: Replace "xxxx" with the new 4-digit number.
+Note: Replace "xxxx" with the 4-digit number. Replace `/mnt` with the destination path inside the guest.
 
 ## 6. Uninstallation
 
