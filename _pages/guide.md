@@ -53,7 +53,7 @@ To add a new shared directory, click on the "Shares" button from the box configu
 
 To mount the shared directory in a macOS or Linux distribution, execute the following command:
 
-`mount -t virtiofs elshared-xxxx /mnt/`
+`mount -t virtiofs elshared-xxxx /mnt`
 
 Note: Replace "xxxx" with the new 4-digit number.
 
